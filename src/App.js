@@ -15,6 +15,9 @@ class App extends Component {
           Some change in first-pr.
           Some change in third-pr.
         </p>
+        <p>
+          A second pr change.
+        </p>
       </div>
     );
   }
