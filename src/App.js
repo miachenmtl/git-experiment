@@ -14,6 +14,7 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
           Some change in first-pr.
           Some change in third-pr.
+          Some change in pr-a.
         </p>
         <p>
           A second pr change.
